@@ -12,7 +12,7 @@ const Hero = () => {
           <Typed className='text-gray-500 pl-2 md:pl-4' strings={['BTB', 'BTC', 'SASS']} typeSpeed={140} backSpeed={140} loop />
         </div>
         <p className='md:text-2xl sm:text-xl font-bold text-gray-500'>Monitor your data analytics to increase revenue for BTB, BTC, & SASS platforms.</p>
-        <button className='bg-[#009f9a] w-[200px] rounded-md mx-auto py-3 my-6 font-bold text-black'>Get Started</button>
+        <button className='bg-[#00df9a] hover:bg-[#058f63] w-[200px] rounded-md mx-auto py-3 my-6 font-bold text-black'>Get Started</button>
       </div>
     </div>
   )
